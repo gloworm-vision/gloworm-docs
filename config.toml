@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://gloworm.vision/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Gloworm"
+theme = "book"
+
+enableGitInfo = true
+
+[params]
+  BookRepo = 'https://github.com/gloworm-vision/gloworm-docs'
+  BookMenuBundle = '/menu'
