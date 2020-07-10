@@ -31,6 +31,7 @@ Based on the quotes we have received for PCBs, as well as our predicted cost for
 Photos (renders are of latest revision):
 
 ![Gloworm (rev 0.4.0) render)](/announcing-gloworm/rev0.4.0-render.JPEG)
+![Gloworm (rev 0.4.0) ledboard render)](/announcing-gloworm/rev0.4.0-ledboard-render.png)
 ![Gloworm (rev 0.3.0) with LEDs ON](/announcing-gloworm/rev0.3.0-leds-on.JPEG)
 ![Gloworm (rev 0.3.0) with LEDs OFF)](/announcing-gloworm/rev0.3.0-leds-off.JPEG)
 
