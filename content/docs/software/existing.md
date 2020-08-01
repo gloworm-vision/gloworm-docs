@@ -28,7 +28,7 @@ Before modifying the image, we need to flash it onto the Gloworm.
 3. `sudo apt install libusb-1.0-0-dev # install libusb-dev`
 4. `make`
 5. `sudo ./rpiboot`
-6. Connect your computer to the outermost USB C port, wait for usbboot to finish.
+6. Connect your computer to the USB C port labeled with a download icon, wait for usbboot to finish.
 7. `sudo fdisk -l`
 8. Find the 8GB device. Make **sure** you're using the right device (for me this is `/dev/sda`)
 9. `sudo dd if=your_existing_image.img of=<device from above> bs=4M status=progress`
@@ -41,7 +41,7 @@ Before modifying the image, we need to flash it onto the Gloworm.
 2. Find the boot partition of your 8GB device from before. This will be the smaller of the two (for me this is `/dev/sda1`)
 3. `mkdir boot`
 4. `sudo mount <device partition> boot`
-5. `echo "\ndtoverlay=enc28j60" >> boot/config.txt`
+5. `echo "\ndtoverlay=enc28j60\ngpio=45=op,dh" >> boot/config.txt`
 6. `cp dt-blob.bin boot/ # copy your compiled device tree blob`
 
 ## Backup (optional)

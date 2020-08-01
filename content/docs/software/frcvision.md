@@ -20,7 +20,7 @@ Cross platform instructions are [on the home page]({{< relref "/" >}}).
 3. `sudo apt install libusb-1.0-0-dev # install libusb-dev`
 4. `make`
 5. `sudo ./rpiboot`
-6. Connect your computer to the outermost USB C port, wait for usbboot to finish.
+6. Connect your computer to the USB C port labeled with a download icon, wait for usbboot to finish.
 7. `sudo fdisk -l`
 8. Find the 8GB device. Make **sure** you're using the right device (for me this is `/dev/sda`)
 9. Download the latest release from gloworm-pi-gen

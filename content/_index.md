@@ -12,11 +12,12 @@ While there are many awesome open source vision _software_ projects for FRC (suc
 ## Features
 
 * Raspberry Pi Compute Module 3+ (BCM2837 64-bit SoC @ 1.2GHz, 1GB LPDDR2 SDRAM, 8GB eMMC Flash)
-* OV5647 Wide Angle Camera Module (640x480 @ 90FPS video)
+* OV5647 Camera Module (640x480 @ 90FPS video, low distortion 62.7° lens)
 * Dimmable 400 lumen green LED array (with constant brightness down to 7v)
 * 10/100 Ethernet
 * 12V Passive PoE (with reverse polarity protection and brownout tolerance)
 * USB C ports for flashing and peripherals (such as a USB camera)
-* WPILIB FRCVision-based image to kickstart your custom vision code
-* Compatible with PhotonVision, a Raspbian image for PhotonVision on the Gloworm will be available soon
+* PhotonVision image for getting started with vision tracking quickly
+* WPILIB FRCVision-based image for custom vision code
 * Completely open source (CERN Open Hardware License v2 - Permissive Variant)
+* 20mm 5v cooling fan
