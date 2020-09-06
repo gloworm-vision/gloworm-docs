@@ -9,6 +9,9 @@ weight: 1
 * Power Consumption (LEDs on, vision tracking, no peripherals): 7.2W
 * Luminous Flux: ~400lm
 * Frame Rate: 120fps @ 320x240, 90fps @ 640x480, 30fps @ 1920x1080
+* FoV: 62.7° horizontal, 49.0° vertical
+* Distortion: <-0.50%
+* IR filter: 650nm
 * SoC: BCM2837 @ 1.2GHz
 * Memory: 1GB LPDDR2 SDRAM
 * Flash Storage: 8GB eMMC

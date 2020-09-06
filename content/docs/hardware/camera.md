@@ -6,11 +6,3 @@ weight: 3
 # Camera
 
 Standard [OV5647](https://cdn.sparkfun.com/datasheets/Dev/RaspberryPi/ov5647_full.pdf) "Raspberry Pi Wide Angle" camera module with a custom [JSD3922-A1](/JSD3922-A1.pdf) lens.
-
-## Specs
-
-* Recommended Resolution: 320x240
-* FPS: 90
-* FoV: 62.7° horizontal, 49.0° vertical
-* Distortion: <-0.50%
-* IR filter: 650nm
