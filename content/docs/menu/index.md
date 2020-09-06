@@ -3,6 +3,7 @@ headless = true
 +++
 
 - [Quick Start]({{< relref "/docs/quickstart" >}})
+- [Specifications]({{< relref "/docs/specifications" >}})
 - [Github](https://github.com/gloworm-vision/gloworm)
 - [Hardware]({{< relref "/docs/hardware" >}})
   - [Mainboard]({{< relref "/docs/hardware/mainboard" >}})
