@@ -5,7 +5,7 @@ weight: 1
 
 # Existing image
 
-If you already have an image for a Raspberry Pi-based coprocessor (such as Raspbian), modifying it to work with the Gloworm is pretty straightforward.
+If you already have an image for a Raspberry Pi-based coprocessor (such as Raspbian), modifying it to work with Gloworm is pretty straightforward.
 
 ## Compile Device Tree
 
@@ -17,9 +17,9 @@ We'll need to compile our custom device tree first.
 2. `sudo apt install device-tree-compiler`
 3. `dtc -O dtb gloworm-dt-blob.dts -o dt-blob.bin -q`
 
-## Flash the Gloworm
+## Flashing
 
-Before modifying the image, we need to flash it onto the Gloworm.
+Before modifying the image, we need to flash it onto Gloworm.
 
 ### Linux
 

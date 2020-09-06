@@ -11,5 +11,4 @@ headless = true
   - [Mechanical CAD]({{< relref "/docs/hardware/mcad" >}})
 - [Software]({{< relref "/docs/software" >}})
   - [Existing image]({{< relref "/docs/software/existing" >}})
-  - [FRCVision]({{< relref "/docs/software/frcvision" >}})
 - [Blog]({{< relref "/posts" >}})

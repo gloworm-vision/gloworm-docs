@@ -16,7 +16,7 @@ Features:
 * 12V Passive PoE (with reverse polarity protection and brownout tolerance)
 * USB C ports for flashing and peripherals (such as a USB camera)
 * WPILIB FRCVision-based image to kickstart your custom vision code
-* Compatible with PhotonVision, a Raspbian image for PhotonVision on the Gloworm will be available soon
+* Compatible with PhotonVision, a Raspbian image for PhotonVision on Gloworm will be available soon
 * Completely open source (CERN Open Hardware License v2 - Permissive Variant)
 
 Here's where we're at:
