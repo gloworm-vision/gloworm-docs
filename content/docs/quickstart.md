@@ -38,7 +38,7 @@ You have three main options for vision software on Gloworm:
 
 1. Make sure your USB C cable is disconnected from Gloworm
 2. Turn on your robot (or any other 12V/1A power supply you're using)
-3. Open a web browser and connect to http://gloworm.local:5800/ (PhotonVision) or http://frcvision.local/ (FRCVision)
+3. Open a web browser and connect to `http://gloworm.local:5800/` (PhotonVision) or `http://frcvision.local/` (FRCVision)
 
 ## Questions?
 
