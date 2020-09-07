@@ -9,7 +9,7 @@ If you already have an image for a Raspberry Pi-based coprocessor (such as Raspb
 
 ## Compile Device Tree
 
-We'll need to compile our custom device tree first.
+We'll need to compile our custom device tree first. This will tell the Pi which pins we're using for the camera, LEDs, fan, ethernet controller, etc.
 
 ### Linux
 
@@ -19,7 +19,7 @@ We'll need to compile our custom device tree first.
 
 ## Flashing
 
-Before modifying the image, we need to flash it onto Gloworm.
+Before modifying the image, we'll flash it onto Gloworm.
 
 ### Linux
 
@@ -34,6 +34,8 @@ Before modifying the image, we need to flash it onto Gloworm.
 9. `sudo dd if=your_existing_image.img of=<device from above> bs=4M status=progress`
 
 ## Modify the boot partition
+
+Finally, we need to copy our device tree onto the Pi and modify the boot config file to use the enc28j60 overlay and run the cooling fan.
 
 ### Linux
 
