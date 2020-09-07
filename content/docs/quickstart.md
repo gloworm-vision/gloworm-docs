@@ -38,12 +38,10 @@ If you want to run Gloworm off wall-power, a [passive PoE injector with a DC bar
 3. Run an Ethernet cable from the passive PoE injector output to Gloworm's Ethernet port
 4. Plug any peripherals you have into the USB C port labeled with a camera icon
 
-## Testing
+## Usage
 
-1. Make sure your USB C cable is disconnected from Gloworm
-2. Turn on your robot (or any other 12V/1A power supply you're using)
+1. Make sure nothing is connected to the USB C port labeled with a download icon
+2. Turn on your robot (or any other power supply you're using)
 3. Open a web browser and connect to `http://gloworm.local:5800/` (PhotonVision) or `http://frcvision.local/` (FRCVision)
-
-## Questions?
 
 See the [PhotonVision](https://docs.photonvision.org/en/latest/) or [FRCVision](https://docs.wpilib.org/en/stable/docs/software/vision-processing/raspberry-pi/the-raspberry-pi-frc-console.html) documentation.
