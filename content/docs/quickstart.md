@@ -19,9 +19,11 @@ You have three main options for vision software on Gloworm:
 3. Plug a USB C cable from your computer into the USB C port on Gloworm labeled with a download icon
 4. Run BalenaEtcher as an administrator
 5. Select the zip file you downloaded in the first step
-6. Select the compute module (initialization may take a while)
+6. Select the compute module (if it doesn't show up after 30s try using another USB port, initialization may take a while)
 7. Hit flash
-8. After flashing is completed, disconnect your USB C cable. Never use the download port during normal operation, it will force Gloworm into USB boot mode. Peripherals should be connected to the port labeled with a camera icon.
+8. Wait for flashing to complete, then disconnect your USB C cable
+
+Never use the download port during normal operation, it will force Gloworm into USB boot mode. Peripherals should be connected to the port labeled with a camera icon. First boot will be slower than the rest.
 
 ![Balena Etcher](/balenaEtcher.png)
 
