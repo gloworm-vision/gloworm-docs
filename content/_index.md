@@ -21,4 +21,4 @@ While there are many awesome open source vision _software_ projects for FRC (suc
 * Completely open source (CERN Open Hardware License v2 - Permissive Variant)
 * 20mm 5v cooling fan
 
-![Assembled Gloworm](/gloworm.png)
+![Assembled Gloworm](/gloworm.webp)
