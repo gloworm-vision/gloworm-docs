@@ -3,6 +3,8 @@ title: Gloworm
 type: docs
 ---
 
+![Assembled Gloworm](/gloworm.webp)
+
 # Gloworm
 
 Gloworm is an inexpensive and open source vision module. See the [Quick Start]({{< relref "/docs/quickstart" >}}).
@@ -20,5 +22,3 @@ While there are many awesome open source vision _software_ projects for FRC (suc
 * Supports PhotonVision and FRCVision
 * Completely open source (CERN Open Hardware License v2 - Permissive Variant)
 * 20mm 5v cooling fan
-
-![Assembled Gloworm](/gloworm.webp)
