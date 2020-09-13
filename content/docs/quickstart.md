@@ -19,7 +19,7 @@ You have three main options for vision software on Gloworm:
 3. Plug a USB C cable from your computer into the USB C port on Gloworm labeled with a download icon
 4. Run BalenaEtcher as an administrator
 5. Select the zip file you downloaded in the first step
-6. Select the compute module (if it doesn't show up after 30s try using another USB port, initialization may take a while)
+6. Select the compute module. If it doesn't show up after 30s try using another USB port, initialization may take a while. If prompted, install the recommended missing drivers.
 7. Hit flash
 8. Wait for flashing to complete, then disconnect your USB C cable
 
@@ -45,5 +45,9 @@ If you want to run Gloworm off wall-power, a [passive PoE injector with a DC bar
 1. Make sure nothing is connected to the USB C port labeled with a download icon
 2. Turn on your robot (or any other power supply you're using)
 3. Open a web browser and connect to `http://gloworm.local:5800/` (PhotonVision) or `http://frcvision.local/` (FRCVision)
+
+If those URLs don't resolve on your system, mDNS may not be setup properly. In that case, you'll want to use a tool such as [Angry IP Scanner](https://angryip.org/download) to find Gloworm on your network. After you find Gloworm, make sure to setup a static IP (which you can do in PhotonVision).
+
+![Angry IP Scanner](/angryip.jpg)
 
 See the [PhotonVision](https://docs.photonvision.org/en/latest/) or [FRCVision](https://docs.wpilib.org/en/stable/docs/software/vision-processing/raspberry-pi/the-raspberry-pi-frc-console.html) documentation.
