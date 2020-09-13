@@ -5,6 +5,7 @@ headless = true
 - [Quick Start]({{< relref "/docs/quickstart" >}})
   - [Imaging]({{< relref "/docs/quickstart#imaging" >}})
   - [Mounting and Wiring]({{< relref "/docs/quickstart#mounting-and-wiring" >}})
+  - [Finding Gloworm]({{< relref "/docs/quickstart#finding-gloworm" >}})
   - [Usage]({{< relref "/docs/quickstart#usage" >}})
 - [Buy](https://buy.gloworm.vision/)
 - [Specifications]({{< relref "/docs/specifications" >}})

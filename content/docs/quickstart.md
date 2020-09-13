@@ -3,7 +3,6 @@ title: Quick Start
 weight: 1
 ---
 
-
 # Quick Start
 
 You have three main options for vision software on Gloworm:
@@ -40,7 +39,7 @@ If you want to run Gloworm off wall-power, a [passive PoE injector with a DC bar
 3. Run an Ethernet cable from the passive PoE injector output to Gloworm's Ethernet port
 4. Plug any peripherals you have into the USB C port labeled with a camera icon
 
-## Usage
+## Finding Gloworm
 
 1. Make sure nothing is connected to the USB C port labeled with a download icon
 2. Turn on your robot (or any other power supply you're using)
@@ -50,4 +49,6 @@ If those URLs don't resolve on your system, mDNS may not be setup properly. In t
 
 ![Angry IP Scanner](/angryip.jpg)
 
-See the [PhotonVision](https://docs.photonvision.org/en/latest/) or [FRCVision](https://docs.wpilib.org/en/stable/docs/software/vision-processing/raspberry-pi/the-raspberry-pi-frc-console.html) documentation.
+## Usage
+
+At this point, you'll want to follow along with the [PhotonVision](https://docs.photonvision.org/en/latest/) or [FRCVision](https://docs.wpilib.org/en/stable/docs/software/vision-processing/raspberry-pi/the-raspberry-pi-frc-console.html) documentation.
