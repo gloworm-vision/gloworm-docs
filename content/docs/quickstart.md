@@ -14,7 +14,7 @@ You have three main options for vision software on Gloworm:
 ## Imaging
 
 1. Download the latest Gloworm release of [PhotonVision](https://github.com/gloworm-vision/pi-gen/releases) or [FRCVision](https://github.com/gloworm-vision/gloworm-pi-gen/releases)
-2. Download [BalenaEtcher](https://www.balena.io/etcher/)
+2. Download [BalenaEtcher](https://www.balena.io/etcher/) (**note**: you may need to run the [usbboot](https://github.com/raspberrypi/usbboot/blob/master/win32/rpiboot_setup.exe) installer if BalenaEtcher isn't recognizing anything)
 3. Plug a USB C cable from your computer into the USB C port on Gloworm labeled with a download icon
 4. Run BalenaEtcher as an administrator
 5. Select the zip file you downloaded in the first step
