@@ -34,10 +34,11 @@ To use Gloworm on a robot, all you'll need is a [passive PoE injector](https://w
 
 If you want to run Gloworm off wall-power, a [passive PoE injector with a DC barrel jack](https://www.amazon.com/dp/B00NRHNPUA) and a [12V/2A power supply](https://www.amazon.com/dp/B01GD4ZQRS) will be convenient.
 
-1. Mount Gloworm using the provided 10-32 1-3/4" bolts and Nylon-insert nuts. **Take care not to overtighten the bolts.**
-2. Wire a [passive PoE injector](https://www.revrobotics.com/rev-11-1210/) to your PDP. **Not the VRM.**
-3. Run an Ethernet cable from the passive PoE injector output to Gloworm's Ethernet port
-4. Plug any peripherals you have into the USB C port labeled with a camera icon
+1. Mount Gloworm using the provided 10-32 1-3/4" bolts and Nylon-insert nuts. **Take care not to overtighten the bolts**.
+2. Wire a [passive PoE injector](https://www.revrobotics.com/rev-11-1210/) to your PDP. **Not the VRM**.
+3. Install any size breaker in the PDP slot you're using
+4. Run an Ethernet cable from the passive PoE injector output to Gloworm's Ethernet port
+5. Plug any peripherals you have into the USB C port labeled with a camera icon
 
 ## Finding Gloworm
 
