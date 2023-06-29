@@ -24,7 +24,7 @@ You have three main options for vision software on Gloworm:
 
 Never use the download port during normal operation, it will force Gloworm into USB boot mode. Peripherals should be connected to the port labeled with a camera icon. First boot will be slower than the rest.
 
-![Balena Etcher](/balenaEtcher.png)
+![Balena Etcher](balenaEtcher.png)
 
 ## Mounting and Wiring
 

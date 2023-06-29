@@ -5,7 +5,7 @@ weight: 1
 
 # Mainboard
 
-![v0.4.2 Render](/gloworm-mainboard-v0.4.2.png)
+![v0.4.2 Render](gloworm-mainboard-v0.4.2.png)
 
 ## Functionality
 

@@ -5,7 +5,7 @@ weight: 2
 
 # LEDboard
 
-![v0.4.2 Render](/gloworm-ledboard-v0.4.2.png)
+![v0.4.2 Render](gloworm-ledboard-v0.4.2.png)
 
 ## Functionality
 

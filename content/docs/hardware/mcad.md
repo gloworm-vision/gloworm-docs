@@ -11,4 +11,4 @@ Camera module .STEP files can be found on [GrabCAD](https://grabcad.com/library/
 
 The case designed primarily by Julia Schatz can be found [here](https://cad.onshape.com/documents/2d77462d72aa178cf6106d9a/w/a3a16c3af941759808ea00c9/e/bbb1c95f7bcde4cbf402f235).
 
-![Mechanical CAD Assembly](/mcad.webp)
+![Mechanical CAD Assembly](mcad.webp)
