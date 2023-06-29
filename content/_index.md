@@ -3,7 +3,7 @@ title: Gloworm
 type: docs
 ---
 
-![Assembled Gloworm](/gloworm.webp)
+![Assembled Gloworm](gloworm.webp)
 
 # Gloworm
 
